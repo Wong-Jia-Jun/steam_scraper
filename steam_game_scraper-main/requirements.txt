@@ -1,0 +1,13 @@
+psycopg2==2.9.9
+requests==2.31.0
+beautifulsoup4==4.12.2
+geoip2==4.7.0
+Selenium==4.11.2
+transformers==4.35.0
+tensorflow==2.11
+pandas==2.0.3
+sqlalchemy==1.4.31
+torch==2.1.0
+matplotlib==3.7.2
+emoji==2.8.0
+wordcloud==1.9.2

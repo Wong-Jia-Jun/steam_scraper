@@ -1,0 +1,5 @@
+# venv
+.virtual
+
+# Compiled files
+*.pyc
